@@ -1,10 +1,11 @@
 # d2l-1day-notebooks
 
-Notebooks for a 1-day crash course.
+
+Notebooks for a 1-day crash course. It aims for teaching deep learning in a single day. This repo contains the notebooks with only simplified code blocks. The texts are also summarized into slides that will be uploaded later.
 
 ## Part 1: Deep Learning Basic
 
-| title                               |  ipynb    |  html    |
+| title                               |  ipynb    |  slides    |
 | ------------------------------ | ---- | ---- |
 | Data Manipulation with Ndarray | [github](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-1/1-ndarray.ipynb) | [nbviewer](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-1/1-ndarray.ipynb#/) |
 | Automatic Differentiation | [github](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-1/2-autograd.ipynb) | [nbviewer](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-1/2-autograd.ipynb#/) |
@@ -18,7 +19,7 @@ Notebooks for a 1-day crash course.
 
 ## Part 2: Convolutional Neural Networks
 
-| title                                        | ipynb                                                        | html                                                         |
+| title                                        | ipynb                                                        | slides                                                         |
 | -------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | GPUs                                         | [github](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-2/1-use-gpu.ipynb) | [nbviewer](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-2/1-use-gpu.ipynb#/) |
 | Convolutions                                 | [github](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-2/2-conv-layer.ipynb) | [nbviewer](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-2/2-conv-layer.ipynb#/) |
@@ -30,7 +31,7 @@ Notebooks for a 1-day crash course.
 
 ## Part 3: Performance
 
-| title                                             | ipynb                                                        | html                                                         |
+| title                                             | ipynb                                                        | slides                                                         |
 | ------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | A Hybrid of Imperative and Symbolic Programming   | [github](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-3/1-hybridize.ipynb) | [nbviewer](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-3/1-hybridize.ipynb#/) |
 | Multi-GPU Computation Implementation from Scratch | [github](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-3/2-multiple-gpus.ipynb) | [nbviewer](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-3/2-multiple-gpus.ipynb#/) |
@@ -39,7 +40,7 @@ Notebooks for a 1-day crash course.
 
 ## Part 4: Recurrent Neural Networks
 
-| title                                                    | ipynb                                                        | html                                                         |
+| title                                                    | ipynb                                                        | slides                                                         |
 | -------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Text Preprocessing                                       | [github](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-4/1-text-preprocessing.ipynb) | [nbviewer](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-4/1-text-preprocessing.ipynb#/) |
 | Implementation of Recurrent Neural Networks from Scratch | [github](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-4/2-rnn-scratch.ipynb) | [nbviewer](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-4/2-rnn-scratch.ipynb#/) |
