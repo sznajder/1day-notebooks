@@ -29,7 +29,8 @@ Check [the wiki page](https://github.com/mli/1day-notebooks/wiki) for instructio
 | Convolutional Neural Networks (LeNet)        | [github](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-2/4-lenet.ipynb) | [nbviewer](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-2/4-lenet.ipynb#/) |
 | Deep Convolutional Neural Networks (AlexNet) | [github](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-2/5-alexnet.ipynb) | [nbviewer](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-2/5-alexnet.ipynb#/) |
 | Networks Using Blocks (VGG)                  | [github](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-2/6-vgg.ipynb) | [nbviewer](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-2/6-vgg.ipynb#/) |
-| Residual Networks (ResNet)                   | [github](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-2/7-resnet.ipynb) | [nbviewer](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-2/7-resnet.ipynb#/) |
+| Inception Networks (GoogLeNet)                   | [github](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-2/7-googlenet.ipynb) | [nbviewer](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-2/7-googlenet.ipynb#/) |
+| Residual Networks (ResNet)                   | [github](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-2/8-resnet.ipynb) | [nbviewer](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-2/8-resnet.ipynb#/) |
 
 ## Part 3: Performance
 
